@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ares01xv&label=Profile%20views&color=0e75b6&style=flat" alt="ares01xv" /> </p>
 
-- 🔭 I am currently working on **Amber Eateries**
+- 👨🏾‍💻 I am currently learning **Angular, MongoDB**
 
 <!-- - 💬 Ask me about **designing** -->
 
